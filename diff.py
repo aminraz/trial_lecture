@@ -1,4 +1,3 @@
-"""Transport of a single component in a column with advection and dispersion."""
 
 import phreeqpy.iphreeqc.phreeqc_dll as phreeqc_mod
 import numpy as np
